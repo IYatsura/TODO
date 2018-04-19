@@ -22,7 +22,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="brand" href="#">YYYYY</a>
+        <a class="brand" href="#">Hello</a>
         <div class="nav-collapse collapse">
           <ul class="nav">
             <li><a href="about.html">About</a></li>
